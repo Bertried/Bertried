@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bertried
 - 👀 I’m interested in coding(C/C++,Qt apps,HTML,CSS,JavaScript),electronics,robotics,arduino just to name a few
-- 🌱 I’m currently learning Electrical and Electronics engineering at the National School Of Applied Sciences in Morooco
+- 🌱 I’m currently learning Electrical and Electronics engineering at the National School Of Applied Sciences of Khouribga in Morooco
 - 💞️ I’m looking to collaborate on C/C++ projects,arduino projects and Qt projects
 - 📫 How to reach me 
       Home : e.bertried@gmail.com ;
