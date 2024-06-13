@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bertried
-- 👀 I’m interested in coding(C/C++, MATLAB, VHDL), electronics, robotics, arduino, raspberrypi just to name a few
+- 👀 I’m interested in coding(C/C++, Python, MATLAB, VHDL), electronics, robotics, arduino, raspberrypi just to name a few
 - 🌱 I’m currently learning Electrical and Electronics engineering at the National School Of Applied Sciences of Khouribga in Morooco
 - 💞️ I’m looking forward to collaborating on embedded systems, real-time, C/C++, MATLAB/Simulink, arduino projects 
 - 📫 How to reach me 
